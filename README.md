@@ -9,7 +9,7 @@ A multi-threaded GUI application for the client – server communication which u
 ## Technologies used
 - Python3.
 - PyQt5
-- cryptograhy
+- cryptography
 - SQLite
 - Pickle
 - Sockets
